@@ -1,0 +1,8 @@
+{
+  "agent": {
+    "model": "openai/gpt-4o"
+  },
+  "gateway": {
+    "port": 18789
+  }
+}
